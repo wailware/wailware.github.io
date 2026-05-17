@@ -10,7 +10,6 @@ export default function Footer() {
             <span className="footer-logo-mark">W</span>
             <span>wailware</span>
           </div>
-          <p>Construido con React, Vite y ☕ desde Valencia.</p>
         </div>
 
         <div className="footer-right">
